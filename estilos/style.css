@@ -118,3 +118,9 @@ button:hover {
 #cada {
     display:none;
 }
+
+
+
+@media screen and(max-width:550px) {
+    margin:0 auto;
+}
